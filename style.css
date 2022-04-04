@@ -1,0 +1,29 @@
+.box{
+  width: 40%;
+  left: 40%;
+  top: 40%;
+  border: 2px solid palevioletred;
+  padding: 50px;
+  position: absolute;
+  text-align: center;
+  background-color: aqua;
+  border-radius: 10px;
+
+  
+}
+.box2{
+  border: 2px solid orange;
+  border-radius: 10px;
+  padding: 50px;
+  background-color: brown;
+
+}
+.box3{
+  border: 2px solid gray;
+  border-radius: 10px;
+  padding: 50px;
+  background-color: rgb(196, 13, 104);
+
+  
+}
+        
